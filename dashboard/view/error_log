@@ -1,0 +1,169 @@
+[26-Nov-2021 15:27:29 UTC] PHP Parse error:  syntax error, unexpected 'flagged' (T_STRING), expecting ',' or ';' in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/view/while-tmp.php on line 19
+[26-Nov-2021 16:20:19 UTC] PHP Warning:  include(auth-session.php): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 4
+[26-Nov-2021 16:20:19 UTC] PHP Warning:  include(): Failed opening 'auth-session.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 4
+[26-Nov-2021 16:20:19 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 5
+[26-Nov-2021 16:20:19 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 5
+[26-Nov-2021 16:20:19 UTC] PHP Warning:  include(templates/nav.php): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/template.php on line 14
+[26-Nov-2021 16:20:19 UTC] PHP Warning:  include(): Failed opening 'templates/nav.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/template.php on line 14
+[26-Nov-2021 16:20:19 UTC] PHP Notice:  Undefined variable: con in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 80
+[26-Nov-2021 16:20:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 80
+[26-Nov-2021 16:21:02 UTC] PHP Warning:  include(../auth-session.php): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 4
+[26-Nov-2021 16:21:02 UTC] PHP Warning:  include(): Failed opening '../auth-session.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 4
+[26-Nov-2021 16:21:02 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 5
+[26-Nov-2021 16:21:02 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 5
+[26-Nov-2021 16:21:02 UTC] PHP Warning:  include(../templates/nav.php): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/template.php on line 11
+[26-Nov-2021 16:21:02 UTC] PHP Warning:  include(): Failed opening '../templates/nav.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/template.php on line 11
+[26-Nov-2021 16:21:02 UTC] PHP Notice:  Undefined variable: siteCount in /home/sadness/public_html/yesterweb-ring/dashboard/template.php on line 15
+[26-Nov-2021 16:21:02 UTC] PHP Notice:  Undefined variable: pendingCount in /home/sadness/public_html/yesterweb-ring/dashboard/template.php on line 16
+[26-Nov-2021 16:21:02 UTC] PHP Notice:  Undefined variable: idarray in /home/sadness/public_html/yesterweb-ring/dashboard/template.php on line 26
+[26-Nov-2021 16:21:02 UTC] PHP Notice:  Undefined variable: urlarray in /home/sadness/public_html/yesterweb-ring/dashboard/template.php on line 27
+[26-Nov-2021 16:21:02 UTC] PHP Notice:  Undefined variable: con in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 80
+[26-Nov-2021 16:21:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 80
+[26-Nov-2021 16:21:07 UTC] PHP Warning:  include(../auth-session.php): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 4
+[26-Nov-2021 16:21:07 UTC] PHP Warning:  include(): Failed opening '../auth-session.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 4
+[26-Nov-2021 16:21:07 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 5
+[26-Nov-2021 16:21:07 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 5
+[26-Nov-2021 16:21:07 UTC] PHP Warning:  include(../templates/nav.php): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/template.php on line 11
+[26-Nov-2021 16:21:07 UTC] PHP Warning:  include(): Failed opening '../templates/nav.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/template.php on line 11
+[26-Nov-2021 16:21:07 UTC] PHP Notice:  Undefined variable: siteCount in /home/sadness/public_html/yesterweb-ring/dashboard/template.php on line 15
+[26-Nov-2021 16:21:07 UTC] PHP Notice:  Undefined variable: pendingCount in /home/sadness/public_html/yesterweb-ring/dashboard/template.php on line 16
+[26-Nov-2021 16:21:07 UTC] PHP Notice:  Undefined variable: idarray in /home/sadness/public_html/yesterweb-ring/dashboard/template.php on line 26
+[26-Nov-2021 16:21:07 UTC] PHP Notice:  Undefined variable: urlarray in /home/sadness/public_html/yesterweb-ring/dashboard/template.php on line 27
+[26-Nov-2021 16:21:07 UTC] PHP Notice:  Undefined variable: con in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 80
+[26-Nov-2021 16:21:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 80
+[13-Dec-2021 14:36:15 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 17
+[13-Dec-2021 14:36:21 UTC] PHP Notice:  Trying to get property 'error' of non-object in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 39
+[12-Jan-2022 20:04:19 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:04:19 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:04:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:04:25 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:04:25 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:04:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:10:30 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:10:30 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:10:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:10:34 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:10:34 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:10:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:10:37 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:10:37 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:10:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:10:52 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:10:52 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:10:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:11:43 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:11:43 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:11:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:11:45 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:11:45 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:11:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:15:35 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:15:35 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:15:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:16:57 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:16:57 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:16:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:18:23 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:18:23 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:18:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:18:56 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:18:56 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:18:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:19:51 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:19:51 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:19:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:20:35 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:20:35 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:20:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:20:47 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:20:47 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:20:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:21:59 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:21:59 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:21:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:22:13 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:22:13 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:22:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:22:15 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:22:15 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:22:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:24:07 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:24:07 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:24:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:24:24 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:24:24 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:24:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:24:42 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:24:42 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:24:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:24:50 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:24:50 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:24:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:24:54 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:24:54 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:24:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:24:56 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:24:56 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:24:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:25:34 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:25:34 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:25:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 20:25:40 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:25:40 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 20:25:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 22:53:11 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:53:11 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:53:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 22:53:19 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:53:19 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:53:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 22:53:19 UTC] PHP Notice:  Undefined index: rsn in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 56
+[12-Jan-2022 22:53:20 UTC] PHP Notice:  Undefined variable: rows in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 105
+[12-Jan-2022 22:53:21 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:53:21 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:53:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 22:58:09 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:58:09 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:58:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 22:58:38 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:58:38 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:58:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 22:58:43 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:58:43 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:58:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 22:58:44 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:58:44 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:58:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 22:59:01 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:59:01 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:59:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 22:59:06 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:59:06 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:59:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 22:59:07 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:59:07 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 22:59:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 23:04:42 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 23:04:42 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 23:04:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 23:04:45 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 23:04:45 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 23:04:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 23:04:45 UTC] PHP Notice:  Undefined index: delid in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 54
+[12-Jan-2022 23:04:45 UTC] PHP Notice:  Undefined index: reason in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 55
+[12-Jan-2022 23:04:47 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 23:04:47 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 23:04:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 23:05:29 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 23:05:29 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 23:05:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 23:05:33 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 23:05:33 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 23:05:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 23:05:33 UTC] PHP Notice:  Undefined variable: rows in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 104
+[12-Jan-2022 23:05:34 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 23:05:34 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 23:05:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2
+[12-Jan-2022 23:06:30 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 23:06:30 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/index.php on line 3
+[12-Jan-2022 23:06:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/view/view.php on line 2

@@ -1,0 +1,104 @@
+[23-Oct-2021 22:11:05 UTC] PHP Notice:  Undefined variable: array in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 30
+[23-Oct-2021 22:13:04 UTC] PHP Notice:  Undefined variable: sql in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 46
+[23-Oct-2021 22:13:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 46
+[23-Oct-2021 22:13:12 UTC] PHP Notice:  Undefined variable: sql in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 46
+[23-Oct-2021 22:13:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 46
+[23-Oct-2021 22:13:13 UTC] PHP Notice:  Undefined variable: sql in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 46
+[23-Oct-2021 22:13:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 46
+[23-Oct-2021 22:13:23 UTC] PHP Notice:  Undefined variable: sql in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 46
+[23-Oct-2021 22:13:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 46
+[23-Oct-2021 22:15:04 UTC] PHP Warning:  fopen(/yesterweb-ring/webring.json): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 42
+[23-Oct-2021 22:15:04 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 43
+[23-Oct-2021 22:20:57 UTC] PHP Warning:  fopen(/yesterweb-ring/webring.json): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 44
+[23-Oct-2021 22:20:57 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 45
+[23-Oct-2021 22:21:13 UTC] PHP Warning:  fopen(/yesterweb-ring/webring.json): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 44
+[23-Oct-2021 22:21:13 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 45
+[23-Oct-2021 22:31:51 UTC] PHP Warning:  fopen(/yesterweb-ring/webring.json): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 43
+[23-Oct-2021 22:31:51 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 44
+[23-Oct-2021 22:39:42 UTC] PHP Parse error:  syntax error, unexpected '", "' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 43
+[23-Oct-2021 22:39:45 UTC] PHP Parse error:  syntax error, unexpected '", "' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 43
+[23-Oct-2021 22:40:02 UTC] PHP Parse error:  syntax error, unexpected '", "' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 43
+[23-Oct-2021 22:40:03 UTC] PHP Parse error:  syntax error, unexpected '", "' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 43
+[23-Oct-2021 22:40:04 UTC] PHP Parse error:  syntax error, unexpected '", "' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 43
+[23-Oct-2021 22:42:11 UTC] PHP Warning:  mkdir(): File exists in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 39
+[23-Oct-2021 22:48:40 UTC] PHP Warning:  mkdir(): File exists in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 39
+[23-Oct-2021 22:54:53 UTC] PHP Parse error:  syntax error, unexpected '$updateJSON' (T_VARIABLE) in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 41
+[23-Oct-2021 22:54:55 UTC] PHP Parse error:  syntax error, unexpected '$updateJSON' (T_VARIABLE) in /home/sadness/public_html/yesterweb-ring/milkaroni/dashboard/approve/index.php on line 41
+[26-Nov-2021 17:57:49 UTC] PHP Notice:  Undefined variable: username in /home/sadness/public_html/yesterweb-ring/dashboard/approve/while-tmp.php on line 30
+[26-Nov-2021 17:57:50 UTC] PHP Notice:  Undefined variable: username in /home/sadness/public_html/yesterweb-ring/dashboard/approve/while-tmp.php on line 30
+[26-Nov-2021 18:44:34 UTC] PHP Notice:  Undefined index: email in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 61
+[26-Nov-2021 18:48:01 UTC] PHP Notice:  Undefined index: email in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 36
+[26-Nov-2021 18:48:01 UTC] PHP Notice:  Undefined index: email in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 56
+[26-Nov-2021 18:52:01 UTC] PHP Notice:  Undefined index: id in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 30
+[26-Nov-2021 18:52:01 UTC] PHP Notice:  Undefined index: email in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 31
+[26-Nov-2021 18:52:16 UTC] PHP Notice:  Undefined index: id in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 30
+[26-Nov-2021 18:52:16 UTC] PHP Notice:  Undefined index: email in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 31
+[26-Nov-2021 18:52:30 UTC] PHP Notice:  Undefined index: id in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 30
+[26-Nov-2021 18:52:30 UTC] PHP Notice:  Undefined index: email in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 31
+[26-Nov-2021 18:53:48 UTC] PHP Notice:  Undefined index: id in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 30
+[26-Nov-2021 18:53:48 UTC] PHP Notice:  Undefined index: email in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 31
+[26-Nov-2021 18:54:06 UTC] PHP Notice:  Undefined index: id in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 30
+[26-Nov-2021 18:54:06 UTC] PHP Notice:  Undefined index: email in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 31
+[26-Nov-2021 18:54:23 UTC] PHP Notice:  Undefined index: id in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 30
+[26-Nov-2021 18:54:23 UTC] PHP Notice:  Undefined index: email in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 31
+[26-Nov-2021 18:55:10 UTC] PHP Notice:  Undefined index: id in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 30
+[26-Nov-2021 18:55:10 UTC] PHP Notice:  Undefined index: email in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 31
+[26-Nov-2021 18:56:10 UTC] PHP Notice:  Undefined index: id in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 30
+[26-Nov-2021 18:56:10 UTC] PHP Notice:  Undefined index: email in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 31
+[26-Nov-2021 19:03:57 UTC] PHP Notice:  Undefined variable: id in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 36
+[26-Nov-2021 19:07:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 114
+[26-Nov-2021 19:08:22 UTC] PHP Notice:  Undefined variable: id in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 36
+[26-Nov-2021 19:11:04 UTC] PHP Notice:  Undefined variable: id in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 34
+[12-Jan-2022 19:53:42 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 19:53:42 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 19:54:08 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 19:54:08 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 19:56:57 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 19:56:57 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 19:57:39 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 19:57:39 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 19:57:39 UTC] PHP Notice:  Undefined index: username in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/buildTable.php on line 38
+[12-Jan-2022 19:58:08 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 19:58:08 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 19:58:13 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 19:58:13 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 19:58:14 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 19:58:14 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 20:10:27 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 20:10:27 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 20:21:57 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 20:21:57 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/sadness/public_html/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 22:52:15 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 22:52:15 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 22:52:21 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 22:52:21 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 22:52:24 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 22:52:24 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 22:52:32 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 22:52:32 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 22:53:07 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 22:53:07 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 22:57:56 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 22:57:56 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 22:58:03 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 22:58:03 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 23:08:53 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 23:08:53 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 23:09:59 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 23:09:59 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 23:10:41 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 23:10:41 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 23:10:46 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3
+[12-Jan-2022 23:10:46 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/dashboard/approve/index.php on line 3

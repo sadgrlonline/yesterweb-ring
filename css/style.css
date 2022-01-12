@@ -1,0 +1,127 @@
+:root {
+    --bg-color: #1e1e1e;
+    --fg-color: #3d3d3d;
+    --text-color: #ffffff;
+    --font-family: 'sans serif';
+    --font-size: 1em;
+    --accent-color: #c6ff6a;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    width: 100%;
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+}
+
+body a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.login-container,
+.dashboard-container {
+    width: 500px;
+    margin: 0 auto;
+    background-color: var(--fg-color);
+    padding: 20px;
+    margin-top: 20px;
+}
+
+table {
+    border-spacing: 0;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table>tr>th {
+    font-weight: bold;
+    border-collapse: collapse;
+}
+
+thead {
+    padding-bottom: 10px;
+}
+
+td {
+    border: none;
+    padding: 0 15px;
+}
+
+tr:nth-child(even) {
+    background-color: var(--fg-color);
+}
+
+.table-responsive {
+    overflow-x: auto;
+}
+
+.instructions {
+    color: white;
+
+}
+
+td {
+    word-break: break-word;
+}
+
+#flagReasonDiv {
+    display: none;
+    position: absolute;
+    background-color: black;
+    padding: 10px;
+    border: 1px solid white;
+    max-width: 300px;
+}
+
+#deleteReasonDiv {
+    display: none;
+    position: absolute;
+    background-color: black;
+    padding: 10px;
+    border: 1px solid white;
+    max-width: 300px;
+}
+
+
+input[type=text],
+input[type=password],
+input[type=email],
+input[type=url] {
+    height: 30px;
+    font-size: var(--font-size);
+}
+
+input[type=submit] {
+    height: 30px;
+    font-size: var(--font-size);
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+
+
+tbody:before {
+    /* This doesn't work because of border-collapse */
+    line-height: 2em;
+    content: "";
+    color: white;
+    /* bacground color */
+    display: block;
+}

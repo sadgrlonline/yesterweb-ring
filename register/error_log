@@ -1,0 +1,80 @@
+[12-Jan-2022 19:26:36 UTC] PHP Notice:  Undefined variable: dbname in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/config.php on line 8
+[12-Jan-2022 14:26:36 US/Eastern] PHP Warning:  mysqli::prepare(): (3D000/1046): No database selected in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 32
+[12-Jan-2022 14:26:36 US/Eastern] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 33
+[12-Jan-2022 19:29:29 UTC] PHP Notice:  Undefined variable: dbname in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/config.php on line 8
+[12-Jan-2022 14:29:29 US/Eastern] PHP Warning:  mysqli::prepare(): (3D000/1046): No database selected in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 32
+[12-Jan-2022 14:29:29 US/Eastern] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 33
+[12-Jan-2022 19:30:09 UTC] PHP Notice:  Undefined variable: dbname in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/config.php on line 8
+[12-Jan-2022 14:30:09 US/Eastern] PHP Warning:  mysqli::prepare(): (3D000/1046): No database selected in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 32
+[12-Jan-2022 14:30:09 US/Eastern] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 33
+[12-Jan-2022 19:30:51 UTC] PHP Notice:  Undefined variable: dbname in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/config.php on line 8
+[12-Jan-2022 14:30:51 US/Eastern] PHP Warning:  mysqli::prepare(): (3D000/1046): No database selected in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 32
+[12-Jan-2022 14:30:51 US/Eastern] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 33
+[12-Jan-2022 19:32:37 UTC] PHP Notice:  Undefined variable: dbname in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/config.php on line 8
+[12-Jan-2022 14:32:37 US/Eastern] PHP Warning:  mysqli::prepare(): (3D000/1046): No database selected in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 32
+[12-Jan-2022 14:32:37 US/Eastern] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 33
+[12-Jan-2022 19:32:44 UTC] PHP Notice:  Undefined variable: dbname in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/config.php on line 8
+[12-Jan-2022 14:32:44 US/Eastern] PHP Warning:  mysqli::prepare(): (3D000/1046): No database selected in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 32
+[12-Jan-2022 14:32:44 US/Eastern] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 33
+[12-Jan-2022 19:33:50 UTC] PHP Notice:  Undefined variable: dbname in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/config.php on line 8
+[12-Jan-2022 14:33:50 US/Eastern] PHP Warning:  mysqli::prepare(): (3D000/1046): No database selected in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 32
+[12-Jan-2022 14:33:50 US/Eastern] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 33
+[12-Jan-2022 19:34:46 UTC] PHP Notice:  Undefined variable: dbname in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/config.php on line 8
+[12-Jan-2022 14:34:46 US/Eastern] PHP Warning:  mysqli::prepare(): (3D000/1046): No database selected in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 25
+[12-Jan-2022 14:34:46 US/Eastern] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 26
+[12-Jan-2022 19:37:27 UTC] PHP Notice:  Undefined variable: dbname in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/config.php on line 8
+[12-Jan-2022 14:37:27 US/Eastern] PHP Warning:  mysqli::prepare(): (3D000/1046): No database selected in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 25
+[12-Jan-2022 14:37:27 US/Eastern] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 26
+[12-Jan-2022 19:37:49 UTC] PHP Notice:  Undefined variable: dbname in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/config.php on line 8
+[12-Jan-2022 14:37:49 US/Eastern] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 23
+[12-Jan-2022 19:38:27 UTC] PHP Notice:  Undefined variable: dbname in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/config.php on line 8
+[12-Jan-2022 14:38:27 US/Eastern] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 28
+[12-Jan-2022 19:38:49 UTC] PHP Notice:  Undefined variable: dbname in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/config.php on line 8
+[12-Jan-2022 14:38:49 US/Eastern] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 30
+[12-Jan-2022 19:39:25 UTC] PHP Notice:  Undefined variable: dbname in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/config.php on line 8
+[12-Jan-2022 14:39:25 US/Eastern] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 30
+[12-Jan-2022 19:39:57 UTC] PHP Notice:  Undefined variable: dbname in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/config.php on line 8
+[12-Jan-2022 14:39:58 US/Eastern] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 25
+[12-Jan-2022 19:46:01 UTC] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/sadness/public_html/yesterweb-ring-test/yesterweb-ring/register/register.php on line 29
