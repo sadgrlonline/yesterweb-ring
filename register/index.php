@@ -40,6 +40,10 @@
                             <input type="password" class="form-control" name="confirmpassword" id="confirmpassword"
                                 onkeyup='' required="required" maxlength="80">
                         </div>
+                        <div class="form-group">
+                            <label for="signup-pwd">Signup Code:</label>
+                            <input type="text" class="form-control" name="signupcode" id="signupcode" required="required">
+</div>
 
                         <input id="submit" type="submit" name="btnsignup" value="Register"></input>
             </form>
