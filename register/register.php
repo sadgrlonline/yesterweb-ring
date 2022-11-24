@@ -12,7 +12,7 @@ echo "The signup code you used is incorrect.";
 if (isset($_POST['btnsignup'])) {
 
     $signupcode = trim($_POST['signupcode']);
-    if ($signupcode == "yestermeow") {
+    if ($signupcode == "xxxxxx") {
         $email = trim($_POST['email']);
         $username = trim($_POST['username']);
         $name = trim($_POST['name']);
@@ -44,7 +44,7 @@ if (isset($_POST['btnsignup'])) {
 
         '; // Our message above including the link
 
-        $headers = 'From:noreply@sadgrl.leprd.space' . "\r\n"; // Set from headers
+        $headers = 'From:noreply@yesterweb.org' . "\r\n"; // Set from headers
         mail($to, $subject, $message, $headers); // Send our email
         header('Location: success.php');
     }
